@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650642515989",
+    "project_id": "shoprider-fbf7a",
+    "storage_bucket": "shoprider-fbf7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650642515989:android:fe4098be48bb24981d861c",
+        "android_client_info": {
+          "package_name": "com.app.mdelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6xHM57RSRCCUdC4NFpSn5aIOIBWmu8vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
